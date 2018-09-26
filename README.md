@@ -1,5 +1,10 @@
 # MVC-Intro
 
+**Challange 1** 
+
+Use any free API and write code to send requests to the API url and stream and save data.
+
+**Challange 2** 
 
 Create a simple sqlite db using the movie-metadata.csv with one table and the following fields:
 
